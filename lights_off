@@ -1,0 +1,2 @@
+~/work/Elgato-Light-Controller/elgato-light-controller.py -address 192.168.4.32 -off&
+~/work/Elgato-Light-Controller/elgato-light-controller.py -address 192.168.4.33 -off&

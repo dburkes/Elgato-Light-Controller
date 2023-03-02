@@ -21,7 +21,7 @@ args = parser.parse_args()
 
 def main():
     Debug = False
-    Light_IP_Address = "10.0.1.185"  # Change this to your light's IP
+    Light_IP_Address = "192.168.4.33"  # Change this to your light's IP
     Light_Port = 9123 # Elgato's default, only change if you changed this
     Light_Brightness = 23  #Change to your personal preference
     Light_Temperature = 3300 #Change to your personal preference
